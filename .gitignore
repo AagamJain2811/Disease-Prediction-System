@@ -1,0 +1,29 @@
+
+Web Development\Tutorials\Backend\Hitesh Choudhary\vidtube\.env
+Web Development\Tutorials\Frontend\React\12MegaProjectBlog\.env
+*.iml
+*.xml
+DSA JAVA/out
+*.idea
+*node_modules
+*env
+*.env
+venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+node_modules/
+dist/
+build/
+.vite/
+
+.env.local
+.env.*.local
+
+.DS_Store
+Thumbs.db
